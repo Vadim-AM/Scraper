@@ -1,2 +1,2 @@
 # Scraper
-Scraper with tests
+Recursive image scraper with tests
